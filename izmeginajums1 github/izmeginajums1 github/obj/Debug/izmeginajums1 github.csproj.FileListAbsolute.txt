@@ -1,0 +1,7 @@
+C:\C#\izmeginajums1 github\izmeginajums1 github\bin\Debug\izmeginajums1 github.exe.config
+C:\C#\izmeginajums1 github\izmeginajums1 github\bin\Debug\izmeginajums1 github.exe
+C:\C#\izmeginajums1 github\izmeginajums1 github\bin\Debug\izmeginajums1 github.pdb
+C:\C#\izmeginajums1 github\izmeginajums1 github\obj\Debug\izmeginajums1 github.csproj.AssemblyReference.cache
+C:\C#\izmeginajums1 github\izmeginajums1 github\obj\Debug\izmeginajums1 github.csproj.CoreCompileInputs.cache
+C:\C#\izmeginajums1 github\izmeginajums1 github\obj\Debug\izmeginajums1 github.exe
+C:\C#\izmeginajums1 github\izmeginajums1 github\obj\Debug\izmeginajums1 github.pdb

@@ -10,8 +10,9 @@ namespace izmeginajums1_github
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i <= 5; i++)
+            for (int i = 1; i <= 5; i++) { 
                 Console.WriteLine("meginajums" + i);
+                Console.WriteLine("yayayay"+ i );}
         }
     }
 }
